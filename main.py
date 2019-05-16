@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.options import Options
 URL = open("url.txt").read()
 path = "lyric.txt"
 options = Options()
-#options.add_argument('--headless')
+options.add_argument('--headless')
 driver = webdriver.Chrome(executable_path=r"C:\work\chromedriver.exe", options=options)
 driver.get(URL)
 sleep(1)
