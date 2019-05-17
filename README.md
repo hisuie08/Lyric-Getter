@@ -1,7 +1,7 @@
 # Lyric-Getter
 Get lyric from http://www.kasi-time.com/ and save as txt file
 
-## Dependency
+## InDependency
 ### This code need to be installed Selenium on your PC to run
 `pip install selenium`
 
@@ -10,6 +10,6 @@ Get lyric from http://www.kasi-time.com/ and save as txt file
 ##### 2.Run main.py
 ##### 3.Open lyric.txt, you'll get lyric you want.
 
-# Waning
+# Warning
 you must use this tool for only your own using.
 I can't take responsibility for trouble caused by this code.
